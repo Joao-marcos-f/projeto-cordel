@@ -53,7 +53,7 @@
 }
 
 #fundo{
-    background:lightgray url(pacote-cordel/imagens/background001.jpg) no-repeat fixed right center;
+    background:lightgray url(imagens/background001.jpg) no-repeat fixed right center;
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
     
@@ -64,7 +64,7 @@
     color: white;
 }
 #fundo2{
-    background:lightgray url(pacote-cordel/imagens/background002.jpg) no-repeat fixed right center;
+    background:lightgray url(imagens/background002.jpg) no-repeat fixed right center;
     background-size: cover;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
